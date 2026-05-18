@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fabbikian.
-- 👀 I’m interested in python.
+- 👀 I’m interested in AI.
 - 🌱 I’m currently learning health.
 - 💞️ I'm learning from a group of dev ambassadors. 
 - 😄 Pronouns: She
